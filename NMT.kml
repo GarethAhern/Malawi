@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+    <name>NMT.kml</name>
+    <open>1</open>
+    <Style id="Tree">
+        <IconStyle>
+            <scale>1.1</scale>
+            <Icon>
+                <href>https://pics.freeicons.io/uploads/icons/png/14502897621581665318-512.png</href>
+            </Icon>
+            <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>0.5</scale>
+        </LabelStyle>
+        <ListStyle>
+            <ItemIcon>
+                <href>https://pics.freeicons.io/uploads/icons/png/14502897621581665318-512.png</href>
+            </ItemIcon>
+        </ListStyle>
+    </Style>
+<Placemark>
+<name>Steve's Nuts</name>
+<description><![CDATA[<a href="http://www.bbc.co.uk/">http://www.bbc.co.uk/</a>]]></description>
+<TimeSpan><begin>2020-01-03</begin>
+<end>2020-01-03</end></TimeSpan>
+<styleUrl>#Tree</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<gx:drawOrder>1</gx:drawOrder>
+<coordinates>-2.51666666666667,52.55</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Big Tree</name>
+<description><![CDATA[<a href="http://www.guardian.co.uk/">http://www.guardian.co.uk/</a>]]></description>
+<TimeSpan><begin>2020-01-08</begin>
+<end>2020-01-08</end></TimeSpan>
+<styleUrl>#Tree</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<gx:drawOrder>1</gx:drawOrder>
+<coordinates>-1.31666666666667,51.8166666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tiny Tree</name>
+<description><![CDATA[<a href="http://www.bbc.co.uk/football">http://www.bbc.co.uk/football</a>]]></description>
+<TimeSpan><begin>2020-01-05</begin>
+<end>2020-01-05</end></TimeSpan>
+<styleUrl>#Tree</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<gx:drawOrder>1</gx:drawOrder>
+<coordinates>-1.08333333333333,52.4166666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Strawberry Tree</name>
+<description><![CDATA[<a href="http://www.bbc.co.uk/news">http://www.bbc.co.uk/news</a>]]></description>
+<TimeSpan><begin>2020-01-12</begin>
+<end>2020-01-12</end></TimeSpan>
+<styleUrl>#Tree</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<gx:drawOrder>1</gx:drawOrder>
+<coordinates>-0.216666666666667,51.35</coordinates>
+</Point>
+</Placemark>
+    </Document></kml>
